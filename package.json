@@ -1,0 +1,23 @@
+{
+  "name": "enviar-email-msgraph",
+  "version": "1.0.0",
+  "description": "Pacote para enviar e-mails usando o Microsoft Graph API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microsoft-graph",
+    "email",
+    "nodejs"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ]
+}
