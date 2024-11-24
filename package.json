@@ -1,6 +1,6 @@
 {
   "name": "enviar-email-msgraph",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pacote para enviar e-mails usando o Microsoft Graph API.",
   "main": "index.js",
   "scripts": {
